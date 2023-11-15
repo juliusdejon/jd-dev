@@ -3,14 +3,16 @@ title: Accuwork 🌐
 date: 2023-10-14
 description: Verify your work experience history through smart contract.
 math: true
-categories: ["react", "solidity", "blockchain"]
+categories: ["react", "solidity", "blockchain", "tailwind"]
 featured: true
 cover: /projects/Accuwork.png
 ---
 
 ### Demo
 
-[https://www.accuwork.pro/](https://www.accuwork.pro/)
+Site: [https://www.accuwork.pro/](https://www.accuwork.pro/)
+
+Code: [https://github.com/devhyun05/Accuwork](https://github.com/devhyun05/Accuwork)
 
 ### Inspiration
 
@@ -23,3 +25,7 @@ Users can record their employment histories in blockchain environment. Also, sma
 ### Screenshots
 
 ![accuwork](/projects/Accuwork.png "accuwork")
+
+### Team behind Accuwork
+
+![hackathon](/projects/hackathon.jpeg "hackathon.jpeg")

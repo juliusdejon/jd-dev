@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Featured guides 🤖 on Salinger Theme</title>
+    <title>Projects 🚀  on Julius Dejon</title>
     <link>https://example.com/projects/</link>
-    <description>Recent content in Featured guides 🤖 on Salinger Theme</description>
+    <description>Recent content in Projects 🚀  on Julius Dejon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Front Matter</title>
-      <link>https://example.com/projects/frontmatter/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/frontmatter/</guid>
-      <description>🔥 read the update wiki on the github wiki section
-Global Config Besides to Hugo Global config there are some more variables that can be used in config.toml.
-Site Params # Optional Footer copyright = &amp;#39;Name&amp;#39; [params] # True if the header must appears also in the homepage (default: True) showHeaderOnHomepage = true # Google Analytics G-Tag (optional) googleAnalytics = &amp;#34;G-XX00000&amp;#34; # True if you want to use Twemoji (optional) twemoji = true # Optional text for 404 text.</description>
+      <title>Accuwork 🌐</title>
+      <link>https://example.com/projects/accuwork/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/accuwork/</guid>
+      <description>Demo https://www.accuwork.pro/
+Inspiration One of my friend works in Canada immigration and the hard thing is that it is difficult to identify the people&amp;rsquo;s work history. Therefore, if there is a platform that can make it easier to verify, it would be better.
+What it does Users can record their employment histories in blockchain environment. Also, smart contract will do the prove of employment by the actual company that user worked with.</description>
     </item>
   </channel>
 </rss>

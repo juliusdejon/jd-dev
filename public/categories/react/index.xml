@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>react on Julius Dejon</title>
+    <link>https://example.com/categories/react/</link>
+    <description>Recent content in react on Julius Dejon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/categories/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accuwork 🌐</title>
+      <link>https://example.com/projects/accuwork/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/accuwork/</guid>
+      <description>Demo https://www.accuwork.pro/
+Inspiration One of my friend works in Canada immigration and the hard thing is that it is difficult to identify the people&amp;rsquo;s work history. Therefore, if there is a platform that can make it easier to verify, it would be better.
+What it does Users can record their employment histories in blockchain environment. Also, smart contract will do the prove of employment by the actual company that user worked with.</description>
+    </item>
+    <item>
+      <title>Software Engineer</title>
+      <link>https://example.com/work-experience/stratpoint/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/work-experience/stratpoint/</guid>
+      <description>Experience Developed cross-cutting concerns such as Authentication, Authorization, and Audit using React JS, Node Sequelize, and GraphQL with custom middleware for request validation. Created responsive web campaigns, including Tinder-like swiping, gamification, and surveys, to enhance customer engagement within the app. Collaborated with a team to gather requirements from Scrum Masters and Product Owners to ensure project expectations were met. Automated tests in React and Node to streamline manual testing processes. Maintained the Content Management System (CMS) used by stakeholders for mobile interface updates, data management, and scheduled maintenance.</description>
+    </item>
+    <item>
+      <title>Web Developer Internship</title>
+      <link>https://example.com/work-experience/prime/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/work-experience/prime/</guid>
+      <description>Projects made Mnemosyne - internal system learning platform by using videos Piggyback - internal system like Google Calendar but can add existing clients Experience Contributed to intern teams developing in-house systems using React, Redux, Redux-saga, and Laravel. Developed enterprise-grade REST APIs using the Apiato framework. Built user interfaces using antd. Learned to write clean and concise code. Photos </description>
+    </item>
+  </channel>
+</rss>

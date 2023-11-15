@@ -1,8 +1,8 @@
 +++
 title = "Blogs 📖 "
-weight = 30
+weight = 40
 +++
 
-I'm maintaining my blogs on my notion :)
+I'm maintaining my blogs in my notion app :)
 
 will migrate soon...

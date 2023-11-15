@@ -66,6 +66,12 @@ featured = true # true to be displayed in the home hero.
 [[menu.main]]
 name = "Projects"
 url = "/projects/"
+weight = 1
+
+
+[[menu.main]]
+name = "Experience"
+url = "/work-experience/"
 weight = 2
 
 [[menu.main]]

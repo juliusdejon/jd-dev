@@ -1885,12 +1885,6 @@ html {
 .rounded-lg {
   border-radius: 0.5rem;
 }
-.rounded-md {
-  border-radius: 0.375rem;
-}
-.rounded-sm {
-  border-radius: 0.125rem;
-}
 .bg-base-100 {
   --tw-bg-opacity: 1;
   background-color: hsl(var(--b1) / var(--tw-bg-opacity));
@@ -1904,9 +1898,6 @@ html {
 }
 .bg-contain {
   background-size: contain;
-}
-.bg-cover {
-  background-size: cover;
 }
 .bg-center {
   background-position: center;
