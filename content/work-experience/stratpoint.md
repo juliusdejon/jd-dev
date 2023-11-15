@@ -4,7 +4,7 @@ date: 2019-10-01
 description: Stratpoint Technologies, Inc.
 math: true
 categories: ["react", "react-native", "aws", "node"]
-featured: true
+featured: false
 cover: /experience/stratpoint.png
 ---
 

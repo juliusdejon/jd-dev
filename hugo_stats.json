@@ -53,7 +53,6 @@
       "dropdown-content",
       "dropdown-end",
       "dropdown-hover",
-      "dropdown-top",
       "fa-arrow-right-long",
       "fa-brands",
       "fa-dev",
@@ -147,16 +146,12 @@
     ],
     "ids": [
       "accredible-",
-      "blockhack-2023-hackhaton",
       "demo",
       "experience",
-      "hackathon-photos",
       "inspiration",
       "photos",
       "projects-made",
       "screenshots",
-      "team",
-      "team-behind",
       "team-behind-accuwork",
       "what-it-does"
     ]

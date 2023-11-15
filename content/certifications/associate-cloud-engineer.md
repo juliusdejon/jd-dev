@@ -4,7 +4,7 @@ date: 2021-08-01
 description: Google Cloud Certified Associate Cloud Engineer
 math: true
 categories: ["gcp", "cloud", "certificate"]
-featured: false
+featured: true
 cover: /certificates-badge/cloud-ace.png
 ---
 

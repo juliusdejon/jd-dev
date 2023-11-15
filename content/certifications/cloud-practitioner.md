@@ -4,7 +4,7 @@ date: 2020-01-29
 description: AWS Certified Cloud Practitioner
 math: true
 categories: ["aws", "cloud", "certificate"]
-featured: false
+featured: true
 cover: /certificates-badge/cloud-practitioner.png
 ---
 

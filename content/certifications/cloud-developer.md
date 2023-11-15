@@ -4,7 +4,7 @@ date: 2022-12-05
 description: Google Cloud Certified Professional Cloud Developer
 math: true
 categories: ["gcp", "cloud", "certificate"]
-featured: false
+featured: true
 cover: /certificates-badge/cloud-dev.png
 ---
 
