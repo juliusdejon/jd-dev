@@ -3,8 +3,9 @@
     "dependencies": {},
     "devDependencies": {}
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "postcss-cli": "^10.1.0"
+  },
   "name": "jd-dev",
   "version": "0.1.0"
 }
