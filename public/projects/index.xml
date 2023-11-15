@@ -13,9 +13,20 @@
       <link>https://example.com/projects/accuwork/</link>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/projects/accuwork/</guid>
-      <description>Demo https://www.accuwork.pro/
+      <description>Demo Site: https://www.accuwork.pro/
+Code: https://github.com/devhyun05/Accuwork
 Inspiration One of my friend works in Canada immigration and the hard thing is that it is difficult to identify the people&amp;rsquo;s work history. Therefore, if there is a platform that can make it easier to verify, it would be better.
 What it does Users can record their employment histories in blockchain environment. Also, smart contract will do the prove of employment by the actual company that user worked with.</description>
+    </item>
+    <item>
+      <title>George Brown Tech Film Festival 🎥</title>
+      <link>https://example.com/projects/gbc/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/gbc/</guid>
+      <description>Demo Site: https://gbc-film-festival.netlify.app/
+Code: https://github.com/juliusdejon/george-brown-film-festival
+What it does Explore and buy film passes, just like you would on a website for the Toronto International Film Festival.
+Screenshots </description>
     </item>
   </channel>
 </rss>

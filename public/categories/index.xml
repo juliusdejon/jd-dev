@@ -30,6 +30,34 @@
       <description></description>
     </item>
     <item>
+      <title>tailwind</title>
+      <link>https://example.com/categories/tailwind/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/categories/tailwind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>css</title>
+      <link>https://example.com/categories/css/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/categories/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>html</title>
+      <link>https://example.com/categories/html/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/categories/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>js</title>
+      <link>https://example.com/categories/js/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/categories/js/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>certificate</title>
       <link>https://example.com/categories/certificate/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
