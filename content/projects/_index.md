@@ -1,5 +1,6 @@
 ---
 title: "Projects 🚀 "
+menu: "main"
 weight: 10
 ---
 

@@ -26,11 +26,11 @@ showHeaderOnHomepage = true
 showSocialOnHomepage = true
 showOnlyFeaturedPost = true
 
-filterCoverImages = true
+filterCoverImages = false
 
 [params.meta]
-title = "Salinger Theme for Hugo built with TailwindCSS and DaisyUI"
-description = "Salinger is a clean, minimalistic, mobile-first, blazing-fast, fancy and lightweight theme for the Hugo framework built with TailwindCSS and DaisyUI"
+title = "Julius Dejon Portfolio"
+description = "Made with Hugo"
 keywords = ["simple", "minimal", "clean", "fast", "blog", "portfolio", "responsive", "twemoji", "recursion", "section", "tailwind", "daisyui"]
 
 [params.footer]
@@ -59,31 +59,6 @@ name = "goodreads"
 url = "https://www.goodreads.com/user/show/127938725-julius-dejon"
 icon = "fa-brands fa-goodreads"
 featured = true # true to be displayed in the home hero.
-
-
-
-[Menu]
-[[menu.main]]
-name = "Projects"
-url = "/projects/"
-weight = 1
-
-
-[[menu.main]]
-name = "Experience"
-url = "/work-experience/"
-weight = 2
-
-[[menu.main]]
-name = "Certifications"
-url = "/certifications/"
-weight = 3
-
-[[menu.main]]
-name = "Blogs"
-url = "/blog/"
-weight = 4
-
 
 [[menu.footer]]
 name = "Privacy Policy"
