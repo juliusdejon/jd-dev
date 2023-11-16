@@ -1,5 +1,6 @@
 ---
 title: "Certifications 🏅"
+menu: "main"
 weight: 30
 ---
 

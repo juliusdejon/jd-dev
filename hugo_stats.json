@@ -41,6 +41,7 @@
       "bg-base-200",
       "bg-center",
       "bg-contain",
+      "bg-no-repeat",
       "bg-transparent",
       "block",
       "brightness-95",
