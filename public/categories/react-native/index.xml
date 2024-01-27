@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>react-native on Julius Dejon</title>
-    <link>https://example.com/categories/react-native/</link>
+    <link>https://juliusdejon.com/categories/react-native/</link>
     <description>Recent content in react-native on Julius Dejon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/categories/react-native/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliusdejon.com/categories/react-native/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Engineer</title>
-      <link>https://example.com/work-experience/stratpoint/</link>
+      <link>https://juliusdejon.com/work-experience/stratpoint/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/work-experience/stratpoint/</guid>
+      <guid>https://juliusdejon.com/work-experience/stratpoint/</guid>
       <description>Experience Developed cross-cutting concerns such as Authentication, Authorization, and Audit using React JS, Node Sequelize, and GraphQL with custom middleware for request validation. Created responsive web campaigns, including Tinder-like swiping, gamification, and surveys, to enhance customer engagement within the app. Collaborated with a team to gather requirements from Scrum Masters and Product Owners to ensure project expectations were met. Automated tests in React and Node to streamline manual testing processes. Maintained the Content Management System (CMS) used by stakeholders for mobile interface updates, data management, and scheduled maintenance.</description>
     </item>
   </channel>

@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aws on Julius Dejon</title>
-    <link>https://example.com/categories/aws/</link>
+    <link>https://juliusdejon.com/categories/aws/</link>
     <description>Recent content in aws on Julius Dejon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliusdejon.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/certifications/sol-arch/</link>
+      <link>https://juliusdejon.com/certifications/sol-arch/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/certifications/sol-arch/</guid>
+      <guid>https://juliusdejon.com/certifications/sol-arch/</guid>
       <description>Accredible 🏅 AWS Certified Solutions Architect - Associate showcases knowledge and skills in AWS technology, across a wide range of AWS services. The focus of this certification is on the design of cost and performance optimized solutions, demonstrating a strong understanding of the AWS Well-Architected Framework. This certification can enhance the career profile and earnings of certified individuals and increase your credibility and confidence in stakeholder and customer interactions.
 Preparing for and attaining this certification will showcase:</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/certifications/cloud-practitioner/</link>
+      <link>https://juliusdejon.com/certifications/cloud-practitioner/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/certifications/cloud-practitioner/</guid>
+      <guid>https://juliusdejon.com/certifications/cloud-practitioner/</guid>
       <description>Accredible 🏅 The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology. This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
 Julius Dejon - Cloud Practitioner Certificate</description>
     </item>
     <item>
       <title>Software Engineer</title>
-      <link>https://example.com/work-experience/stratpoint/</link>
+      <link>https://juliusdejon.com/work-experience/stratpoint/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/work-experience/stratpoint/</guid>
+      <guid>https://juliusdejon.com/work-experience/stratpoint/</guid>
       <description>Experience Developed cross-cutting concerns such as Authentication, Authorization, and Audit using React JS, Node Sequelize, and GraphQL with custom middleware for request validation. Created responsive web campaigns, including Tinder-like swiping, gamification, and surveys, to enhance customer engagement within the app. Collaborated with a team to gather requirements from Scrum Masters and Product Owners to ensure project expectations were met. Automated tests in React and Node to streamline manual testing processes. Maintained the Content Management System (CMS) used by stakeholders for mobile interface updates, data management, and scheduled maintenance.</description>
     </item>
   </channel>

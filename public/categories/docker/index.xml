@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>docker on Julius Dejon</title>
-    <link>https://example.com/categories/docker/</link>
+    <link>https://juliusdejon.com/categories/docker/</link>
     <description>Recent content in docker on Julius Dejon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliusdejon.com/categories/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Developer</title>
-      <link>https://example.com/work-experience/shore/</link>
+      <link>https://juliusdejon.com/work-experience/shore/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/work-experience/shore/</guid>
+      <guid>https://juliusdejon.com/work-experience/shore/</guid>
       <description>Experience Wrote well-tested and maintainable code. Maintained existing systems in Rails and React. Became knowledgeable in new standards, technologies, and trends in web development. Managed networking for microservices. Optimized Nginx for a seamless migration between old and new stacks, including React, GraphQL, TypeScript, and Elixir. Orchestrated deployments using Docker, Ansible, and Kubernetes. Managed virtual machines in various environments, including AWS EC2, GCP Compute Engine, and Digital Ocean Droplets. Photos </description>
     </item>
   </channel>

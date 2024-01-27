@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience 💼 on Julius Dejon</title>
-    <link>https://example.com/work-experience/</link>
+    <link>https://juliusdejon.com/work-experience/</link>
     <description>Recent content in Experience 💼 on Julius Dejon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/work-experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliusdejon.com/work-experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Engineer</title>
-      <link>https://example.com/work-experience/wizy/</link>
+      <link>https://juliusdejon.com/work-experience/wizy/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/work-experience/wizy/</guid>
+      <guid>https://juliusdejon.com/work-experience/wizy/</guid>
       <description>Experience Developed form-heavy features using React and Formik. Managed frontend development design and best practices. Implemented performance improvements both the backend and frontend. Contributed to automation features, including admin-configured rules and conditional email sending based on form data. Supported client-specific web search features, particularly for Customer Service. Mentored fellow developers and conducted code reviews. Hosted knowledge-sharing sessions on design patterns and emerging technologies. Deconstructed user stories into tasks. Maintained existing systems.</description>
     </item>
     <item>
       <title>Software Engineer</title>
-      <link>https://example.com/work-experience/stratpoint/</link>
+      <link>https://juliusdejon.com/work-experience/stratpoint/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/work-experience/stratpoint/</guid>
+      <guid>https://juliusdejon.com/work-experience/stratpoint/</guid>
       <description>Experience Developed cross-cutting concerns such as Authentication, Authorization, and Audit using React JS, Node Sequelize, and GraphQL with custom middleware for request validation. Created responsive web campaigns, including Tinder-like swiping, gamification, and surveys, to enhance customer engagement within the app. Collaborated with a team to gather requirements from Scrum Masters and Product Owners to ensure project expectations were met. Automated tests in React and Node to streamline manual testing processes. Maintained the Content Management System (CMS) used by stakeholders for mobile interface updates, data management, and scheduled maintenance.</description>
     </item>
     <item>
       <title>Web Developer</title>
-      <link>https://example.com/work-experience/shore/</link>
+      <link>https://juliusdejon.com/work-experience/shore/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/work-experience/shore/</guid>
+      <guid>https://juliusdejon.com/work-experience/shore/</guid>
       <description>Experience Wrote well-tested and maintainable code. Maintained existing systems in Rails and React. Became knowledgeable in new standards, technologies, and trends in web development. Managed networking for microservices. Optimized Nginx for a seamless migration between old and new stacks, including React, GraphQL, TypeScript, and Elixir. Orchestrated deployments using Docker, Ansible, and Kubernetes. Managed virtual machines in various environments, including AWS EC2, GCP Compute Engine, and Digital Ocean Droplets. Photos </description>
     </item>
     <item>
       <title>Web Developer Internship</title>
-      <link>https://example.com/work-experience/prime/</link>
+      <link>https://juliusdejon.com/work-experience/prime/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/work-experience/prime/</guid>
+      <guid>https://juliusdejon.com/work-experience/prime/</guid>
       <description>Projects made Mnemosyne - internal system learning platform by using videos Piggyback - internal system like Google Calendar but can add existing clients Experience Contributed to intern teams developing in-house systems using React, Redux, Redux-saga, and Laravel. Developed enterprise-grade REST APIs using the Apiato framework. Built user interfaces using antd. Learned to write clean and concise code. Photos </description>
     </item>
   </channel>

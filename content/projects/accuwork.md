@@ -1,5 +1,5 @@
 ---
-title: Accuwork 🌐
+title: Accuwork 📜
 date: 2023-10-14
 description: Verify your work experience history through smart contract.
 math: true

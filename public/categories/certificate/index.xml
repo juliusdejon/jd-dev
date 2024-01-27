@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>certificate on Julius Dejon</title>
-    <link>https://example.com/categories/certificate/</link>
+    <link>https://juliusdejon.com/categories/certificate/</link>
     <description>Recent content in certificate on Julius Dejon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/categories/certificate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juliusdejon.com/categories/certificate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/certifications/cloud-developer/</link>
+      <link>https://juliusdejon.com/certifications/cloud-developer/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/certifications/cloud-developer/</guid>
+      <guid>https://juliusdejon.com/certifications/cloud-developer/</guid>
       <description>Accredible 🏅 A Professional Cloud Developer builds scalable and highly available applications using Google-recommended tools and best practices. This individual has experience with cloud-native applications, developer tools, managed services, and next-generation databases. A Professional Cloud Developer also has proficiency with at least one general-purpose programming language and instruments their code to produce metrics, logs, and traces.
 The Professional Cloud Developer exam assesses your ability to:
 Design highly scalable, available, and reliable cloud-native applications Build and test applications Deploy applications Integrate Google Cloud services Manage deployed applications Julius Dejon - Professional Cloud Developer Certificate</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/certifications/cloud-arch/</link>
+      <link>https://juliusdejon.com/certifications/cloud-arch/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/certifications/cloud-arch/</guid>
+      <guid>https://juliusdejon.com/certifications/cloud-arch/</guid>
       <description>Accredible 🏅 A Google Cloud Certified - Professional Cloud Architect enables organizations to leverage Google Cloud technologies. Through an understanding of cloud architecture and Google technology, this individual can design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
 A Google Cloud Certified - Professional Cloud Architect has demonstrated in our assessment their ability to:
 Design and plan a cloud solution architecture Manage and provision the cloud solution infrastructure Design for security and compliance Analyze and optimize technical and business processes Manage implementations of cloud architecture Ensure solution and operations reliability Julius Dejon - Professional Cloud Architect Certificate</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/certifications/associate-cloud-engineer/</link>
+      <link>https://juliusdejon.com/certifications/associate-cloud-engineer/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/certifications/associate-cloud-engineer/</guid>
+      <guid>https://juliusdejon.com/certifications/associate-cloud-engineer/</guid>
       <description>Accredible 🏅 An Associate Cloud Engineer deploys applications, monitors operations, and manages enterprise solutions. This individual is able to use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
 The Associate Cloud Engineer exam assesses your ability to:
 Set up a cloud solution environment Plan and configure a cloud solution Deploy and implement a cloud solution Ensure successful operation of a cloud solution Configure access and security Julius Dejon - Associate Cloud Engineer Certificate</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/certifications/sol-arch/</link>
+      <link>https://juliusdejon.com/certifications/sol-arch/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/certifications/sol-arch/</guid>
+      <guid>https://juliusdejon.com/certifications/sol-arch/</guid>
       <description>Accredible 🏅 AWS Certified Solutions Architect - Associate showcases knowledge and skills in AWS technology, across a wide range of AWS services. The focus of this certification is on the design of cost and performance optimized solutions, demonstrating a strong understanding of the AWS Well-Architected Framework. This certification can enhance the career profile and earnings of certified individuals and increase your credibility and confidence in stakeholder and customer interactions.
 Preparing for and attaining this certification will showcase:</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/certifications/cloud-practitioner/</link>
+      <link>https://juliusdejon.com/certifications/cloud-practitioner/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/certifications/cloud-practitioner/</guid>
+      <guid>https://juliusdejon.com/certifications/cloud-practitioner/</guid>
       <description>Accredible 🏅 The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology. This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
 Julius Dejon - Cloud Practitioner Certificate</description>
     </item>

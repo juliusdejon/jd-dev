@@ -106,6 +106,7 @@
       "my-auto",
       "navbar",
       "not-prose",
+      "not-sized",
       "p-2",
       "p-4",
       "pl-3",
@@ -149,11 +150,15 @@
       "accredible-",
       "demo",
       "experience",
+      "features",
       "inspiration",
       "photos",
+      "poc-features",
       "projects-made",
       "screenshots",
+      "services-and-architecture",
       "team-behind-accuwork",
+      "usage",
       "what-it-does"
     ]
   }

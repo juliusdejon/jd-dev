@@ -4,7 +4,7 @@ date: 2023-09-15
 description: Explore and buy film passes
 math: true
 categories: ["html", "css", "js"]
-featured: false
+featured: true
 cover: /projects/gbc.png
 ---
 
