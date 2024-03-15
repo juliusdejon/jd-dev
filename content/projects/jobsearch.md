@@ -1,5 +1,5 @@
 ---
-title: Job Search 🔍
+title: Job Search 🌍
 date: 2024-03-15
 description: Search jobs using a Map View.
 math: true
